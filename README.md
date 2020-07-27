@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Folder structure
 - my-watchlist/  
-  build/
+  -- build/
   node_modules/
   public/
     index.html
