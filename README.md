@@ -3,16 +3,16 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Folder structure
-- my-watchlist/  
+my-watchlist/  
   - build/
   - node_modules/
 - public/
-    index.html
-    favicon.ico
-    styles.css
-  src/
-    App.js
-    CreateArea.js
+  - index.html
+  - favicon.ico
+  - styles.css
+- src/
+  - App.js
+  - CreateArea.js
     Footer.js
     Header.js
     index.js
