@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Folder structure
-my-watchlist/  
+- my-watchlist/  
   build/
   node_modules/
   public/
