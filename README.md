@@ -13,15 +13,15 @@ my-watchlist/
 - src/
   - App.js
   - CreateArea.js
-    Footer.js
-    Header.js
-    index.js
-    Ticker.js
-   package.json
-   package-lock.json
-   Procfile
-   README.md
-   server.js
+  - Footer.js
+  - Header.js
+  - index.js
+  - Ticker.js
+- package.json
+- package-lock.json
+- Procfile
+- README.md
+- server.js
 
 ## Available Scripts
 
