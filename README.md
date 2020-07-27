@@ -2,6 +2,27 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Folder structure
+my-watchlist/  
+  build/
+  node_modules/
+  public/
+    index.html
+    favicon.ico
+    styles.css
+  src/
+    App.js
+    CreateArea.js
+    Footer.js
+    Header.js
+    index.js
+    Ticker.js
+   package.json
+   package-lock.json
+   Procfile
+   README.md
+   server.js
+
 ## Available Scripts
 
 In the project directory, you can run:
