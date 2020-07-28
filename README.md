@@ -1,6 +1,7 @@
 # my-watchlist
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Deployed here: https://mywl.herokuapp.com/
 
 ## Folder structure
 my-watchlist/  
